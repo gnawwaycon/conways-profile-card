@@ -14,7 +14,7 @@ A simple and interactive personal profile card built with React. This project de
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ganwwaycon/conways-profile-card.git](https://github.com/ganwwaycon/conways-profile-card.git)
+    git clone https://github.com/ganwwaycon/conways-profile-card.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
