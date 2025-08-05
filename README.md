@@ -29,4 +29,7 @@ A simple and interactive personal profile card built with React. This project de
     npm run dev
     ```
 The application will be running at `http://localhost:5173`.
+
+
+
 <img width="436" height="652" alt="image" src="https://github.com/user-attachments/assets/2367ac76-d286-4bc1-9d06-5776c5e773b7" />
